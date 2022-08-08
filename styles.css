@@ -102,7 +102,7 @@ img{
     cursor: pointer;
 }
 
-header>nav>ul>li>a{
+header>nav>ul>a>li{
     color: var(--work-color);
 }
 
